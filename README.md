@@ -1,2 +1,2 @@
-# veri-yap-lar-ve-algoritmalar
+# veriyapilari
 ödev ve tanımlar
